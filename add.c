@@ -13,3 +13,5 @@ long long add_array_ll(const long long* arr, int n) {
     }
     return sum;
 }
+
+# Compile with gcc -shared -fPIC -o libadd.so add.c
