@@ -36,3 +36,5 @@ c = best_time(c_sum)
 print(f"Python: {py:.4f}s")
 print(f"NumPy:  {np_time:.4f}s ({py/np_time:.0f}x faster)")
 print(f"C:      {c:.4f}s ({py/c:.0f}x faster)")
+
+# Run with python bench.py
