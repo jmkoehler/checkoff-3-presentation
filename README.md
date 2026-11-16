@@ -28,3 +28,6 @@ My results showed that NumPy was approximately 65–80 times faster than a regul
 
 ## Conclusion
 This project helped me understand that programming language performance depends on more than just the operation being performed. How data is stored, how memory is accessed, and how calculations are executed can make a significant difference. I also learned how Python and C can work together to combine Python's simplicity with C's performance.
+
+## Link to Slides
+https://docs.google.com/presentation/d/1GO5F8P4l1YDAAgfgJ636BNK5lKRmX3v2lwLJblwXBFI/edit?usp=sharing
