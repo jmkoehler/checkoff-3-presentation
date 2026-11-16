@@ -13,3 +13,6 @@ Some representative prompts I used during my exploration were:
 I used AI as a learning tool throughout the process rather than just asking it to generate my presentation. When I did not understand an explanation, I asked follow-up questions to get a simpler explanation or a more concrete example. I also asked AI to help simplify code and troubleshoot problems when I had trouble installing NumPy and compiling the C library. I then ran the code myself and compared the execution times. This helped me connect the explanations to actual results. One thing I found particularly interesting was that NumPy was around 65–80 times faster than my regular Python loop in my experiment.
 
 If I were to approach this project differently, I would spend more time experimenting with the code before asking AI for explanations. I would also try changing different parts of the implementation to see how they affect performance. Overall, I found that asking follow-up questions, working with AI to develop the code, and testing the results myself was much more useful than simply accepting the first answer AI provided.
+
+# Link to AI Conversation
+https://chatgpt.com/share/6afb3760-82a8-83e9-914d-2f69a5150486
