@@ -33,5 +33,5 @@ This project helped me understand that programming language performance depends 
 https://docs.google.com/presentation/d/1GO5F8P4l1YDAAgfgJ636BNK5lKRmX3v2lwLJblwXBFI/edit?usp=sharing
 
 ## Additional Resources
-https://numpy.org/ /n
-https://docs.python.org/3/library/ctypes.html
+-https://numpy.org/
+-https://docs.python.org/3/library/ctypes.html
